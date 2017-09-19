@@ -1,4 +1,9 @@
-# beginner-html-site-styled
-A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
+## Here is Zerxoi
 
-[Run the example live](http://mdn.github.io/beginner-html-site-styled/).
+Okay, I must admit that I am a newbie.
+I don‘t know how to use github until now and i only can code a website like this simple one, But it's interesting.
+---
+Now i can't give up, I have no way back, please learn all the tings you need, Zerxoi.
+
+Because my goal is Googler.
+:heartpulse:
