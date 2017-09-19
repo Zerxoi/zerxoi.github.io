@@ -47,12 +47,12 @@ document.querySelector('img').onclick = function(){
 	imgChange();
 }
 
-if(!localStorage.getItem('name')) 
+if(!localStorage.getItem('name'))
 {
   setUserName();
-} 
-else 
+}
+else
 {
   var storedName = localStorage.getItem('name');
-  myHeading.innerHTML = 'Mozilla is cool, ' + storedName;
+  myHeading.innerHTML = 'Is it something wrong with Mozilla? ' + storedName;
 }
