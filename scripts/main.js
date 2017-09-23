@@ -1,3 +1,4 @@
+/* Add a comment */
 function imgChange()
 {
 	var myImg = document.querySelector("img");
