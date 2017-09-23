@@ -1,3 +1,4 @@
+// Add a comment in master
 function imgChange()
 {
 	var myImg = document.querySelector("img");
