@@ -1,4 +1,5 @@
 // Add a comment in master
+/* Add a comment in js*/
 function imgChange()
 {
 	var myImg = document.querySelector("img");
